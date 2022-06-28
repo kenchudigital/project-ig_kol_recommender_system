@@ -1,0 +1,8 @@
+runtime: python38
+
+handlers:
+- url: /.*
+  script: main.py
+
+resources:
+  cpu: 2

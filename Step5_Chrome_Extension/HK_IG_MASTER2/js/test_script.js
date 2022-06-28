@@ -1,0 +1,5 @@
+﻿<script>
+
+	alert('Hello')
+
+</script>
